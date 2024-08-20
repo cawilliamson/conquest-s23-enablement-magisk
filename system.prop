@@ -1,3 +1,6 @@
-# Set props needed for DMR
+# Needed for DMR
 ro.yft_talkie_tty_support=1
 ro.yft_talkie_support_type=digital006
+
+# Needed for FM Radio
+ro.vendor.mtk_vibspk_support=true
