@@ -1,0 +1,3 @@
+# Set props needed for DMR
+ro.yft_talkie_tty_support=1
+ro.yft_talkie_support_type=digital006
